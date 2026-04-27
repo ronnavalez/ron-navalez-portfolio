@@ -2,6 +2,8 @@
 
 A personal portfolio website built with vanilla HTML, CSS, and JavaScript. Features a dark navy and purple theme with smooth scrolling, animated sections, and a fully responsive layout.
 
+ron-navalez-portfolio.netlify.app
+
 ## Sections
 - **Hero** — Introduction and social links
 - **About** — My background and story
